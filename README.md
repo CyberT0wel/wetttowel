@@ -1,7 +1,7 @@
 # About Me
 
 ## Introduction
-Hello! I'm [Your Name], a passionate individual with a keen interest in cybersecurity, gaming, animation, and coding. Currently, I'm on the path to becoming a SOC (Security Operations Center) Analyst, where I aim to utilize my skills to contribute to the cybersecurity landscape.
+Hello! I'm Kenny, a passionate individual with a keen interest in cybersecurity, gaming, animation, and coding. Currently, I'm on the path to becoming a SOC (Security Operations Center) Analyst, where I aim to utilize my skills to contribute to the cybersecurity landscape.
 
 ## Interests
 - **Cybersecurity**: My primary focus revolves around cybersecurity. I'm fascinated by threat detection, incident response, and staying updated on the latest security trends and technologies.
